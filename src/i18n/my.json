@@ -45,7 +45,7 @@
     "map_subtitle": "စက်ရုံလုပ်ငန်းဆောင်ရွက်မှု အလွှာတိုင်းကို ချိတ်ဆက်သော ပေါင်းစပ်ဒေတာစီးဆင်းမှု။"
   },
   "innovation": {
-    "title": "AI နှင့် ဆန်းသစ်တီထွင်မှု ဓာတ်ခွဲခန်း",
+    "title": "AI နှင့် ဆန်းသစ်တီထွင်မှု",
     "subtitle": "ဖိနပ်၏ အနာဂတ်ကို အရှိန်မြှင့်ရန် ဉာဏ်ရည်ကို ရှေ့ဆောင်ခြင်း။",
     "ai_agent_title": "AI Agent Driven Workflows",
     "ai_agent_desc": "ရှုပ်ထွေးသော စက်ရုံလုပ်ငန်းစဉ်များကို ခွဲခြမ်းစိတ်ဖြာ၊ ဆုံးဖြတ်နှင့် လုပ်ဆောင်သော AI agents။",
@@ -57,7 +57,7 @@
     "automation_desc": "ဉာဏ်ရည်တု automation pipelines ဖြင့် ရှုပ်ထွေးသော လုပ်ငန်းစဉ်များကို ချောမွေ့စေခြင်း။"
   },
   "support": {
-    "title": "ပံ့ပိုးကူညီရေး",
+    "title": "ပံ့ပိုးမှု",
     "subtitle": "SHOE Production Factory လုပ်ငန်းဆောင်ရွက်မှုများအတွက် ပံ့ပိုးမှုပေါ်တယ်။",
     "sd_title": "SD Legacy Systems",
     "sd_desc": "Sales & Distribution modules အတွက် ပြည့်စုံသော ပံ့ပိုးမှု။",
@@ -69,7 +69,7 @@
     "helpdesk_desc": "Hardware၊ networking နှင့် software ပြဿနာများအတွက် လျင်မြန်သော helpdesk။"
   },
   "team": {
-    "title": "ဆန်းသစ်တီထွင်သူများနှင့် တွေ့ဆုံပါ",
+    "title": "ကျွန်ုပ်တို့၏ အဖွဲ့",
     "subtitle": "Adidas ဖိနပ်ထုတ်လုပ်ရေးတွင် ဒစ်ဂျစ်တယ် အသွင်ပြောင်းမှုကို ဦးဆောင်နေသော ဉာဏ်ရည်များ။",
     "paul_name": "Mr. Paul Huang",
     "paul_role": "IT Manager",
