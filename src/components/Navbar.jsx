@@ -67,13 +67,14 @@ export default function Navbar() {
           </a>
 
           {/* ── Desktop links ── */}
-          <div className="hidden lg:flex items-center gap-0.5">
+          <div className="hidden lg:flex items-center" style={{ gap: '2px' }}>
             {navLinks.map((link) => (
               <a
                 key={link.href}
                 href={link.href}
                 onClick={(e) => scrollTo(e, link.href)}
-                className="relative px-4 py-2 text-sm font-medium text-slate-400 hover:text-white rounded-lg hover:bg-white/5 transition-all duration-200 group"
+                className="relative text-sm font-medium text-slate-400 hover:text-white rounded-lg hover:bg-white/5 transition-all duration-200 group"
+                style={{ padding: '8px 14px', whiteSpace: 'nowrap' }}
               >
                 {link.label}
                 <span className="absolute bottom-1.5 left-1/2 -translate-x-1/2 w-0 h-0.5 bg-adidas-blue group-hover:w-1/2 transition-all duration-300 rounded-full" />
