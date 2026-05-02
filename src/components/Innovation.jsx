@@ -27,7 +27,7 @@ export default function Innovation() {
       <div className="blob w-96 h-96 bg-accent-violet bottom-0 left-[-10rem] opacity-10" />
       <div className="blob w-72 h-72 bg-adidas-blue top-20 right-[-6rem] opacity-10" style={{ animationDelay: '10s' }} />
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 w-full mx-auto px-6 sm:px-10 lg:px-16 2xl:px-24">
         {/* Header */}
         <motion.div
           initial="hidden"

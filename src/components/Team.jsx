@@ -47,7 +47,7 @@ export default function Team() {
       <div className="blob w-80 h-80 bg-accent-violet top-0 left-[-8rem] opacity-10" style={{ animationDelay: '5s' }} />
       <div className="blob w-64 h-64 bg-accent-cyan bottom-10 right-[-6rem] opacity-10" />
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 w-full mx-auto px-6 sm:px-10 lg:px-16 2xl:px-24">
         {/* Header */}
         <motion.div
           initial="hidden"

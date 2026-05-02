@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="absolute inset-0 bg-gradient-to-b from-navy-950 to-navy-900" />
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-adidas-blue/30 to-transparent" />
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 w-full mx-auto px-6 sm:px-10 lg:px-16 2xl:px-24">
         <div className="grid md:grid-cols-3 gap-10 mb-12">
           {/* Brand */}
           <motion.div

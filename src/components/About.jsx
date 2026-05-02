@@ -26,7 +26,7 @@ export default function About() {
       <div className="absolute inset-0 bg-gradient-to-b from-navy-950 via-navy-900 to-navy-950" />
       <div className="blob w-72 h-72 bg-adidas-blue top-10 right-[-8rem] opacity-10" />
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 w-full mx-auto px-6 sm:px-10 lg:px-16 2xl:px-24">
         {/* Section Header */}
         <motion.div
           initial="hidden"

@@ -26,7 +26,7 @@ export default function Support() {
       <div className="absolute inset-0 bg-gradient-to-b from-navy-950 via-navy-800 to-navy-950" />
       <div className="absolute inset-0 grid-overlay opacity-20" />
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 w-full mx-auto px-6 sm:px-10 lg:px-16 2xl:px-24">
         {/* Header */}
         <motion.div
           initial="hidden"

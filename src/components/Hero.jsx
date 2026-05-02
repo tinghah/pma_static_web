@@ -24,14 +24,14 @@ export default function Hero() {
       <div className="blob w-64 h-64 bg-accent-violet top-1/2 left-1/2" style={{ animationDelay: '14s' }} />
 
       {/* Content */}
-      <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 text-center pt-24 pb-16">
+      <div className="relative z-10 w-full max-w-[1920px] mx-auto px-6 sm:px-10 lg:px-16 2xl:px-24 text-center pt-32 pb-20">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
-          className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-adidas-blue/30 bg-adidas-blue/10 text-adidas-light text-xs font-semibold tracking-widest uppercase mb-8"
+          className="inline-flex items-center gap-2 px-5 py-2 rounded-full border border-adidas-blue/30 bg-adidas-blue/10 text-adidas-light text-sm font-semibold tracking-widest uppercase mb-8"
         >
-          <span className="w-2 h-2 bg-adidas-blue rounded-full animate-pulse" />
+          <span className="w-2.5 h-2.5 bg-adidas-blue rounded-full animate-pulse" />
           {t('hero.badge')}
         </motion.div>
 
@@ -39,7 +39,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.15 }}
-          className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white leading-tight mb-6"
+          className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl 2xl:text-8xl font-extrabold text-white leading-tight mb-8"
         >
           {t('hero.title_line1')}
           <br />
@@ -50,9 +50,8 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.3 }}
-          className="text-lg sm:text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed"
-        >
-          {t('hero.subtitle')}
+          className="text-lg sm:text-xl lg:text-2xl text-slate-400 max-w-3xl mx-auto mb-12 leading-relaxed"
+        >          {t('hero.subtitle')}
         </motion.p>
 
         {/* Core Values */}
@@ -60,7 +59,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.45 }}
-          className="flex flex-wrap justify-center gap-3 sm:gap-4 mb-10"
+          className="flex flex-wrap justify-center gap-4 sm:gap-6 mb-14"
         >
           {values.map(({ key, Icon }, i) => (
             <motion.span
@@ -68,9 +67,10 @@ export default function Hero() {
               initial={{ opacity: 0, scale: 0.8 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.4, delay: 0.5 + i * 0.1 }}
-              className="flex items-center gap-2 px-4 py-2 rounded-full glass-light text-sm font-medium text-slate-300 hover:text-white hover:border-adidas-blue/40 transition-all duration-300 cursor-default"
+              className="flex items-center gap-2.5 px-6 py-3 rounded-full glass-light text-base font-medium text-slate-300 hover:text-white hover:border-adidas-blue/40 transition-all duration-300 cursor-default"
             >
-              <Icon className="w-4 h-4 text-adidas-blue" />
+              <Icon className="w-5 h-5 text-adidas-blue" />
+
               {t(`hero.${key}`)}
             </motion.span>
           ))}
@@ -86,13 +86,14 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.6 }}
-          className="inline-flex items-center gap-2 px-8 py-3.5 bg-adidas-blue text-white font-semibold rounded-xl hover:bg-adidas-light transition-all duration-300 shadow-lg shadow-adidas-blue/25 hover:shadow-adidas-blue/40 hover:-translate-y-0.5"
+          className="inline-flex items-center gap-3 px-10 py-4 bg-adidas-blue text-white text-lg font-semibold rounded-2xl hover:bg-adidas-light transition-all duration-300 shadow-xl shadow-adidas-blue/25 hover:shadow-adidas-blue/40 hover:-translate-y-1"
         >
           {t('hero.cta')}
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+          <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
           </svg>
         </motion.a>
+
       </div>
 
       {/* Bottom Gradient Fade */}
