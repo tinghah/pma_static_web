@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "about": "ကျွန်ုပ်တို့အကြောင်း",
+    "operations": "IT လုပ်ငန်းဆောင်ရွက်မှု",
+    "innovation": "AI နှင့် ဆန်းသစ်တီထွင်မှု",
+    "support": "ပံ့ပိုးကူညီရေး",
+    "team": "ကျွန်ုပ်တို့၏ အဖွဲ့"
+  },
+  "hero": {
+    "badge": "ဆန်းသစ်တီထွင်မှု ဗဟိုချက်",
+    "title_line1": "PCM PCaG PCB IT Team",
+    "title_line2": "Pouchen Myanmar",
+    "subtitle": "Legacy Operations နှင့် Future Automation ကြားကွာဟမှုကို ချိတ်ဆက်ပေးသော AI-Driven IT Project Office။",
+    "cta": "ကျွန်ုပ်တို့၏ အနာဂတ်ကို လေ့လာပါ",
+    "professionalism": "ကျွမ်းကျင်မှု",
+    "dedication": "ဆက်ကပ်မှု",
+    "innovation": "ဆန်းသစ်တီထွင်မှု",
+    "service": "ဝန်ဆောင်မှု"
+  },
+  "about": {
+    "title": "Pouchen Group အကြောင်း",
+    "subtitle": "၁၉၆၉ ခုနှစ်ကတည်းက ဖိနပ်ထုတ်လုပ်ရေးတွင် ထူးချွန်မှု၏ အမွေအနှစ်။",
+    "history_title": "ကျွန်ုပ်တို့၏ အမွေအနှစ်",
+    "history_p1": "၁၉၆၉ ခုနှစ်တွင် တည်ထောင်ခဲ့သော Pouchen Group သည် ထိုင်ဝမ်နိုင်ငံရှိ OEM ဖိနပ်ထုတ်လုပ်သူ အသေးစားတစ်ခုအဖြစ် စတင်ခဲ့သည်။",
+    "history_p2": "ကျွန်ုပ်တို့၏ \"ထုတ်ကုန်အပြည့်အစုံနှင့် တန်ဖိုးမြှင့်ဝန်ဆောင်မှုများ\" မဟာဗျူဟာဖြင့် Adidas၊ Nike နှင့် ကမ္ဘာကျော်အားကစားအမှတ်တံဆိပ်များကို ဝန်ဆောင်မှုပေးပါသည်။",
+    "mission_title": "ကျွန်ုပ်တို့၏ ရည်မှန်းချက်",
+    "mission_quote": "အားကစားလုပ်ငန်းတွင် အတန်ဖိုးအရှိဆုံး ဖြေရှင်းချက်များ ပံ့ပိုးပေးခြင်းဖြင့် ကျန်းမာသော ဘဝများကို အကျိုးပြုရန်။",
+    "stats_factories": "ကမ္ဘာလုံးဆိုင်ရာ စက်ရုံများ",
+    "stats_employees": "ဝန်ထမ်းများ",
+    "stats_years": "နှစ်ပေါင်း",
+    "stats_brands": "မိတ်ဖက် အမှတ်တံဆိပ်များ"
+  },
+  "operations": {
+    "title": "IT လုပ်ငန်းဆောင်ရွက်မှု — Factory 4.0",
+    "subtitle": "ကျွန်ုပ်တို့၏ ထုတ်လုပ်ရေး ထူးချွန်မှု၏ ဗဟိုအာရုံကြောစနစ်။",
+    "sap_title": "SAP ERP ကျွမ်းကျင်မှု",
+    "sap_desc": "လုပ်ငန်းသုံးအရင်းအမြစ်များကို တိကျမှုဖြင့် စီမံခန့်ခွဲခြင်း။",
+    "mes_title": "MES ပေါင်းစပ်မှု",
+    "mes_desc": "Real-time ထုတ်လုပ်မှု စောင့်ကြည့်ခြင်းနှင့် အရည်အသွေး ခြေရာခံခြင်း။",
+    "wms_title": "WMS ထူးချွန်မှု",
+    "wms_desc": "ပစ္စည်းသိုလှောင်ခြင်းနှင့် စီးဆင်းမှုကို ပိုမိုကောင်းမွန်စေခြင်း။",
+    "mps_title": "MPS စီမံကိန်း",
+    "mps_desc": "ဝယ်လိုအားခန့်မှန်းခြင်းနှင့် စွမ်းဆောင်ရည်စီမံကိန်းကို ချိန်ညှိခြင်း။",
+    "map_title": "System Integration Map",
+    "map_subtitle": "စက်ရုံလုပ်ငန်းဆောင်ရွက်မှု အလွှာတိုင်းကို ချိတ်ဆက်သော ပေါင်းစပ်ဒေတာစီးဆင်းမှု။"
+  },
+  "innovation": {
+    "title": "AI နှင့် ဆန်းသစ်တီထွင်မှု ဓာတ်ခွဲခန်း",
+    "subtitle": "ဖိနပ်၏ အနာဂတ်ကို အရှိန်မြှင့်ရန် ဉာဏ်ရည်ကို ရှေ့ဆောင်ခြင်း။",
+    "ai_agent_title": "AI Agent Driven Workflows",
+    "ai_agent_desc": "ရှုပ်ထွေးသော စက်ရုံလုပ်ငန်းစဉ်များကို ခွဲခြမ်းစိတ်ဖြာ၊ ဆုံးဖြတ်နှင့် လုပ်ဆောင်သော AI agents။",
+    "agile_title": "Agile Project Execution",
+    "agile_desc": "AI Agents ဖြင့် ဖြေရှင်းချက်များကို လိုက်လျောညီထွေဖြစ်စေပြီး ပေးပို့ခြင်း။",
+    "vibe_title": "Vibe Coding",
+    "vibe_desc": "ရည်ရွယ်ချက်၊ တီထွင်ဖန်တီးမှုနှင့် စီးဆင်းမှုဖြင့် ကုဒ်ရေးခြင်း — ကျွန်ုပ်တို့၏ ခေတ်မီ ဖွံ့ဖြိုးတိုးတက်ရေး ဒဿနိက။",
+    "automation_title": "Custom AI Automations",
+    "automation_desc": "ဉာဏ်ရည်တု automation pipelines ဖြင့် ရှုပ်ထွေးသော လုပ်ငန်းစဉ်များကို ချောမွေ့စေခြင်း။"
+  },
+  "support": {
+    "title": "ပံ့ပိုးကူညီရေး",
+    "subtitle": "SHOE Production Factory လုပ်ငန်းဆောင်ရွက်မှုများအတွက် ပံ့ပိုးမှုပေါ်တယ်။",
+    "sd_title": "SD Legacy Systems",
+    "sd_desc": "Sales & Distribution modules အတွက် ပြည့်စုံသော ပံ့ပိုးမှု။",
+    "qm_title": "အရည်အသွေး စီမံခန့်ခွဲမှု",
+    "qm_desc": "အဆင့်မြင့် Qmgmt စနစ်များဖြင့် အရည်အသွေးစံနှုန်းများ သေချာစေခြင်း။",
+    "production_title": "ထုတ်လုပ်ရေး ပံ့ပိုးမှု",
+    "production_desc": "MES၊ barcode systems နှင့် real-time reporting အတွက် ၂၄/၇ IT ပံ့ပိုးမှု။",
+    "helpdesk_title": "IT Helpdesk",
+    "helpdesk_desc": "Hardware၊ networking နှင့် software ပြဿနာများအတွက် လျင်မြန်သော helpdesk။"
+  },
+  "team": {
+    "title": "ဆန်းသစ်တီထွင်သူများနှင့် တွေ့ဆုံပါ",
+    "subtitle": "Adidas ဖိနပ်ထုတ်လုပ်ရေးတွင် ဒစ်ဂျစ်တယ် အသွင်ပြောင်းမှုကို ဦးဆောင်နေသော ဉာဏ်ရည်များ။",
+    "paul_name": "Mr. Paul Huang",
+    "paul_role": "IT Manager",
+    "paul_bio": "ဒစ်ဂျစ်တယ် အသွင်ပြောင်းမှုအပေါ် အာရုံစိုက်သော ရူပါရုံရှိ ခေါင်းဆောင်။",
+    "ting_name": "Ting (Htet Aung Hlaing)",
+    "ting_role": "Lead AI Innovator & Software Architect",
+    "ting_bio": "AI Agents နှင့် Vibe Coding ၏ ဗိသုကာ။ စိတ်ကူးများကို ဉာဏ်ရည်တု ဖြေရှင်းချက်များအဖြစ် ပြောင်းလဲခြင်း။",
+    "didi_name": "Di Di (Saw D Aye Chan)",
+    "didi_role": "Logistics & WMS Integration Specialist",
+    "didi_bio": "WMS နှင့် Warehouse Operations တွင် ကျွမ်းကျင်သူ။ Supply chain management ကို ပိုမိုကောင်းမွန်စေခြင်း။",
+    "harry_name": "Harry (Hein Htet Zaw)",
+    "harry_role": "SAP & Production Systems Expert",
+    "harry_bio": "SOLE Factory MES၊ SD နှင့် SAP support တွင် ကျွမ်းကျင်သူ။"
+  },
+  "footer": {
+    "desc": "ရွေ့လျားမှုတွင် ဉာဏ်ရည်: ဖိနပ်၏ အနာဂတ်ကို အရှိန်မြှင့်ခြင်း။",
+    "location_title": "တည်နေရာ",
+    "address": "၁၁၂/၁၂၁၊ အမှတ်(၄) ပင်မလမ်း၊ သာဒူကန် စက်မှုဇုန်၊ ရွှေပြည်သာ မြို့နယ်၊ ရန်ကုန်၊ မြန်မာ။",
+    "links_title": "တရားဝင် လင့်ခ်များ",
+    "pouchen": "Pouchen Group",
+    "yueyuen": "Yue Yuen Industrial",
+    "copyright": "© {{year}} Pouchen Myanmar (PMA - B150) PCM PCaG PCB IT Team."
+  }
+}

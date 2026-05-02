@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "about": "Về Chúng Tôi",
+    "operations": "Vận Hành IT",
+    "innovation": "AI & Đổi Mới",
+    "support": "Hỗ Trợ",
+    "team": "Đội Ngũ"
+  },
+  "hero": {
+    "badge": "TRUNG TÂM ĐỔI MỚI",
+    "title_line1": "PCM PCaG PCB IT Team",
+    "title_line2": "Pouchen Myanmar",
+    "subtitle": "Văn phòng Dự án IT Điều khiển bởi AI, kết nối Vận hành Truyền thống với Tự động hóa Tương lai.",
+    "cta": "Khám Phá Tương Lai",
+    "professionalism": "Chuyên Nghiệp",
+    "dedication": "Tận Tâm",
+    "innovation": "Đổi Mới",
+    "service": "Phục Vụ"
+  },
+  "about": {
+    "title": "Về Tập Đoàn Pouchen",
+    "subtitle": "Di sản xuất sắc trong sản xuất giày dép từ năm 1969.",
+    "history_title": "Di Sản Của Chúng Tôi",
+    "history_p1": "Được thành lập năm 1969, Tập đoàn Pouchen bắt đầu như một nhà sản xuất giày dép OEM nhỏ tại Đài Loan. Qua hơn năm thập kỷ, chúng tôi đã phát triển thành một trong những nhà sản xuất giày thể thao và giày thường lớn nhất và tiên tiến nhất thế giới.",
+    "history_p2": "Thông qua chiến lược \"Sản phẩm toàn diện và dịch vụ giá trị gia tăng\", chúng tôi phục vụ các thương hiệu toàn cầu bao gồm Adidas, Nike và các thương hiệu thể thao nổi tiếng thế giới.",
+    "mission_title": "Sứ Mệnh",
+    "mission_quote": "Mang lại lợi ích cho cuộc sống lành mạnh bằng cách cung cấp các giải pháp có giá trị nhất trong ngành thể thao.",
+    "stats_factories": "Nhà Máy Toàn Cầu",
+    "stats_employees": "Nhân Viên",
+    "stats_years": "Năm Xuất Sắc",
+    "stats_brands": "Thương Hiệu Đối Tác"
+  },
+  "operations": {
+    "title": "Vận Hành IT — Nhà Máy 4.0",
+    "subtitle": "Hệ thần kinh trung ương của sự xuất sắc sản xuất.",
+    "sap_title": "Thành Thạo SAP ERP",
+    "sap_desc": "Xương sống cốt lõi của hoạt động, quản lý tài nguyên doanh nghiệp với độ chính xác và quyết định dựa trên dữ liệu thời gian thực.",
+    "mes_title": "Tích Hợp MES",
+    "mes_desc": "Hệ thống Thực thi Sản xuất cung cấp giám sát sản xuất thời gian thực và quản lý chất lượng.",
+    "wms_title": "WMS Xuất Sắc",
+    "wms_desc": "Hệ thống Quản lý Kho tối ưu hóa lưu trữ, truy xuất và luồng vật liệu.",
+    "mps_title": "Lập Kế Hoạch MPS",
+    "mps_desc": "Lập lịch Sản xuất Chính căn chỉnh dự báo nhu cầu với quy hoạch năng lực.",
+    "map_title": "Bản Đồ Tích Hợp Hệ Thống",
+    "map_subtitle": "Luồng dữ liệu thống nhất kết nối mọi lớp hoạt động nhà máy."
+  },
+  "innovation": {
+    "title": "Phòng Thí Nghiệm AI & Đổi Mới",
+    "subtitle": "Tiên phong trí tuệ trong chuyển động để thúc đẩy tương lai giày dép.",
+    "ai_agent_title": "Quy Trình Điều Khiển Bởi AI Agent",
+    "ai_agent_desc": "Các AI agent tự chủ phân tích, quyết định và thực thi các quy trình nhà máy phức tạp.",
+    "agile_title": "Thực Thi Dự Án Agile",
+    "agile_desc": "Được hỗ trợ bởi AI Agents để thích ứng và cung cấp giải pháp với tốc độ chưa từng có.",
+    "vibe_title": "Vibe Coding",
+    "vibe_desc": "Triết lý phát triển hiện đại — viết mã với ý định, sáng tạo và dòng chảy.",
+    "automation_title": "Tự Động Hóa AI Tùy Chỉnh",
+    "automation_desc": "Tối giản hóa quy trình phức tạp và giảm tắc nghẽn thủ công với đường ống tự động hóa thông minh."
+  },
+  "support": {
+    "title": "Bàn Hỗ Trợ",
+    "subtitle": "Cổng hỗ trợ chuyên nghiệp cho hoạt động Nhà máy Sản xuất SHOE.",
+    "sd_title": "Hệ Thống SD Cũ",
+    "sd_desc": "Hỗ trợ toàn diện cho các module Bán hàng & Phân phối truyền thống.",
+    "qm_title": "Quản Lý Chất Lượng",
+    "qm_desc": "Hệ thống quản lý chất lượng tiên tiến đảm bảo tiêu chuẩn đầu ra và tuân thủ quốc tế.",
+    "production_title": "Hỗ Trợ Sản Xuất",
+    "production_desc": "Hỗ trợ IT sàn sản xuất 24/7 cho MES, hệ thống mã vạch và báo cáo thời gian thực.",
+    "helpdesk_title": "IT Helpdesk",
+    "helpdesk_desc": "Helpdesk phản hồi nhanh cho các vấn đề phần cứng, mạng và phần mềm."
+  },
+  "team": {
+    "title": "Gặp Gỡ Các Nhà Đổi Mới",
+    "subtitle": "Những bộ não thúc đẩy chuyển đổi số trong sản xuất giày Adidas.",
+    "paul_name": "Ông Paul Huang",
+    "paul_role": "Quản Lý IT",
+    "paul_bio": "Nhà lãnh đạo có tầm nhìn tập trung vào chuyển đổi số, dẫn dắt chiến lược IT.",
+    "ting_name": "Ting (Htet Aung Hlaing)",
+    "ting_role": "Trưởng Nhóm Đổi Mới AI & Kiến Trúc Sư Phần Mềm",
+    "ting_bio": "Kiến trúc sư của AI Agents & Vibe Coding. Biến ý tưởng thành giải pháp thông minh.",
+    "didi_name": "Di Di (Saw D Aye Chan)",
+    "didi_role": "Chuyên Gia Logistics & Tích Hợp WMS",
+    "didi_bio": "Chuyên gia WMS & Vận hành Kho, tối ưu hóa lưu trữ và luồng vật liệu.",
+    "harry_name": "Harry (Hein Htet Zaw)",
+    "harry_role": "Chuyên Gia SAP & Hệ Thống Sản Xuất",
+    "harry_bio": "Chuyên gia SOLE Factory MES, SD và hỗ trợ SAP, đảm bảo hệ thống sản xuất liên tục."
+  },
+  "footer": {
+    "desc": "Trí Tuệ Trong Chuyển Động: Thúc Đẩy Tương Lai Giày Dép.",
+    "location_title": "Vị Trí",
+    "address": "112/121, No.(4) Main Rd., Thar Du Kan Industrial Zone, Shwe Pyi Thar Township, Yangon, Myanmar.",
+    "links_title": "Liên Kết Chính Thức",
+    "pouchen": "Tập Đoàn Pouchen",
+    "yueyuen": "Yue Yuen Industrial",
+    "copyright": "© {{year}} Pouchen Myanmar (PMA - B150) PCM PCaG PCB IT Team. Bảo lưu mọi quyền."
+  }
+}

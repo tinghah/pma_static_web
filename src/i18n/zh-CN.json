@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "about": "关于我们",
+    "operations": "IT 运营",
+    "innovation": "AI 与创新",
+    "support": "支持服务",
+    "team": "我们的团队"
+  },
+  "hero": {
+    "badge": "创新中心",
+    "title_line1": "PCM PCaG PCB IT Team",
+    "title_line2": "Pouchen Myanmar",
+    "subtitle": "以 AI 驱动的 IT 项目办公室，衔接传统运营与未来自动化。",
+    "cta": "探索我们的未来",
+    "professionalism": "专业",
+    "dedication": "敬业",
+    "innovation": "创新",
+    "service": "服务"
+  },
+  "about": {
+    "title": "关于宝成集团",
+    "subtitle": "自 1969 年以来，在鞋类制造领域卓越传承。",
+    "history_title": "我们的传承",
+    "history_p1": "宝成集团成立于 1969 年，起初为台湾的小型 OEM 鞋类制造商。历经五十余年，已发展成为全球最大、技术最先进的运动及休闲鞋类制造商之一。",
+    "history_p2": "通过「全系列产品与增值服务」战略，我们为 Adidas、Nike 等全球知名运动品牌提供服务。",
+    "mission_title": "我们的使命",
+    "mission_quote": "通过在体育产业提供最有价值的解决方案，造福健康生活。",
+    "stats_factories": "全球工厂",
+    "stats_employees": "全球员工",
+    "stats_years": "卓越年数",
+    "stats_brands": "合作品牌"
+  },
+  "operations": {
+    "title": "IT 运营 — 工厂 4.0",
+    "subtitle": "我们制造卓越的中枢神经系统。",
+    "sap_title": "SAP ERP 精通",
+    "sap_desc": "运营的核心骨干，以精准、可靠和实时数据驱动决策管理企业资源。",
+    "mes_title": "MES 集成",
+    "mes_desc": "制造执行系统提供实时生产监控、质量跟踪和工单管理。",
+    "wms_title": "WMS 卓越",
+    "wms_desc": "仓库管理系统优化物料存储、提取和流动，确保及时交付。",
+    "mps_title": "MPS 规划",
+    "mps_desc": "主生产排程将需求预测与产能规划对齐，实现无缝生产协调。",
+    "map_title": "系统集成图",
+    "map_subtitle": "统一数据流连接工厂运营的每一层。"
+  },
+  "innovation": {
+    "title": "AI 与创新实验室",
+    "subtitle": "以动态智能引领鞋业未来。",
+    "ai_agent_title": "AI 代理驱动工作流程",
+    "ai_agent_desc": "自主 AI 代理分析、决策并执行复杂的工厂工作流程，减少人工干预。",
+    "agile_title": "敏捷项目执行",
+    "agile_desc": "由 AI 代理驱动，以前所未有的速度适应并交付解决方案。",
+    "vibe_title": "Vibe Coding",
+    "vibe_desc": "我们的现代开发理念——以意图、创造力和流畅感编写代码。",
+    "automation_title": "自定义 AI 自动化",
+    "automation_desc": "通过专门构建的智能自动化管道，简化复杂工作流程并减少人工瓶颈。"
+  },
+  "support": {
+    "title": "支持服务台",
+    "subtitle": "SHOE 生产工厂运营的专业支持入口。",
+    "sd_title": "SD 传统系统",
+    "sd_desc": "为传统销售与分销模块提供全面支持，确保供应链运营不间断。",
+    "qm_title": "质量管理",
+    "qm_desc": "先进的质量管理系统确保卓越的产出标准和国际质量合规。",
+    "production_title": "生产支持",
+    "production_desc": "MES、条码系统和实时报告的 24/7 生产现场 IT 支持。",
+    "helpdesk_title": "IT 服务台",
+    "helpdesk_desc": "硬件、网络和软件问题的快速响应服务台。"
+  },
+  "team": {
+    "title": "认识创新者",
+    "subtitle": "推动 Adidas 鞋类生产数字化转型的智者们。",
+    "paul_name": "Paul Huang 先生",
+    "paul_role": "IT 经理",
+    "paul_bio": "专注于数字化转型的远见领导者，以创新和前瞻性引领 IT 战略方向。",
+    "ting_name": "Ting (Htet Aung Hlaing)",
+    "ting_role": "首席 AI 创新者与软件架构师",
+    "ting_bio": "AI 代理与 Vibe Coding 的架构师。将创意转化为重新定义工厂自动化的智能解决方案。",
+    "didi_name": "Di Di (Saw D Aye Chan)",
+    "didi_role": "物流与 WMS 集成专家",
+    "didi_bio": "WMS 与仓库运营专家，优化存储、物料流动和物流集成。",
+    "harry_name": "Harry (Hein Htet Zaw)",
+    "harry_role": "SAP 与生产系统专家",
+    "harry_bio": "SOLE Factory MES、SD 和 SAP 支持专家，确保生产系统不间断运行。"
+  },
+  "footer": {
+    "desc": "动态智能：引领鞋业未来。",
+    "location_title": "位置",
+    "address": "112/121, No.(4) Main Rd., Thar Du Kan Industrial Zone, Shwe Pyi Thar Township, Yangon, Myanmar.",
+    "links_title": "官方链接",
+    "pouchen": "宝成集团",
+    "yueyuen": "裕元工业",
+    "copyright": "© {{year}} Pouchen Myanmar (PMA - B150) PCM PCaG PCB IT Team. 版权所有。"
+  }
+}

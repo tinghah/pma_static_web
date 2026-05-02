@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+/* ── Custom Design Tokens via Tailwind v4 ── */
+@theme {
+  --color-navy-950: #0a0e1a;
+  --color-navy-900: #0d1526;
+  --color-navy-800: #121d33;
+  --color-navy-700: #1a2844;
+  --color-navy-600: #243555;
+  --color-navy-500: #2e4266;
+
+  --color-slate-800: #1e293b;
+  --color-slate-700: #334155;
+  --color-slate-600: #475569;
+  --color-slate-500: #64748b;
+  --color-slate-400: #94a3b8;
+  --color-slate-300: #cbd5e1;
+  --color-slate-200: #e2e8f0;
+
+  --color-adidas-blue: #0066cc;
+  --color-adidas-light: #3399ff;
+  --color-adidas-glow: #1a8cff;
+  --color-adidas-dark: #004d99;
+
+  --color-accent-cyan: #06b6d4;
+  --color-accent-emerald: #10b981;
+  --color-accent-violet: #8b5cf6;
+  --color-accent-amber: #f59e0b;
+
+  --font-sans: 'Inter', 'Noto Sans Myanmar', system-ui, -apple-system, sans-serif;
+}
+
+/* ── Base Styles ── */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-navy-950);
+  color: var(--color-slate-200);
+  line-height: 1.6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Scrollbar Styling ── */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-navy-900);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-navy-600);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-adidas-blue);
+}
+
+/* ── Selection Color ── */
+::selection {
+  background-color: rgba(0, 102, 204, 0.3);
+  color: #fff;
+}
+
+/* ── Glassmorphism Utility ── */
+.glass {
+  background: rgba(13, 21, 38, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-light {
+  background: rgba(30, 41, 59, 0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* ── Gradient Text ── */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-adidas-light), var(--color-accent-cyan));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Animated Background Blobs ── */
+@keyframes blob-float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(30px, -50px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+}
+
+.blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(80px);
+  opacity: 0.15;
+  animation: blob-float 20s ease-in-out infinite;
+  pointer-events: none;
+}
+
+/* ── Glow Ring Animation ── */
+@keyframes pulse-ring {
+  0% { transform: scale(0.9); opacity: 0.5; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+  100% { transform: scale(0.9); opacity: 0.5; }
+}
+
+/* ── Circuit Node Pulse ── */
+@keyframes node-pulse {
+  0%, 100% { box-shadow: 0 0 8px var(--color-adidas-blue), 0 0 16px rgba(0,102,204,0.3); }
+  50% { box-shadow: 0 0 16px var(--color-adidas-light), 0 0 32px rgba(51,153,255,0.4); }
+}
+
+/* ── Subtle grid overlay ── */
+.grid-overlay {
+  background-image:
+    linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+/* ── Skill Tag ── */
+.skill-tag {
+  display: inline-block;
+  padding: 3px 10px;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 9999px;
+  border: 1px solid rgba(0, 102, 204, 0.3);
+  background: rgba(0, 102, 204, 0.1);
+  color: var(--color-adidas-light);
+  transition: all 0.3s ease;
+}
+
+.skill-tag:hover {
+  background: rgba(0, 102, 204, 0.25);
+  border-color: var(--color-adidas-light);
+  box-shadow: 0 0 12px rgba(0, 102, 204, 0.2);
+}

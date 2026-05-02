@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "about": "關於我們",
+    "operations": "IT 營運",
+    "innovation": "AI 與創新",
+    "support": "支援服務",
+    "team": "我們的團隊"
+  },
+  "hero": {
+    "badge": "創新中心",
+    "title_line1": "PCM PCaG PCB IT Team",
+    "title_line2": "Pouchen Myanmar",
+    "subtitle": "以 AI 驅動的 IT 專案辦公室，銜接傳統營運與未來自動化。",
+    "cta": "探索我們的未來",
+    "professionalism": "專業",
+    "dedication": "敬業",
+    "innovation": "創新",
+    "service": "服務"
+  },
+  "about": {
+    "title": "關於寶成集團",
+    "subtitle": "自 1969 年以來，在鞋類製造領域卓越傳承。",
+    "history_title": "我們的傳承",
+    "history_p1": "寶成集團成立於 1969 年，起初為台灣的小型 OEM 鞋類製造商。歷經五十餘年，已發展成為全球最大、技術最先進的運動及休閒鞋類製造商之一。",
+    "history_p2": "透過「全系列產品與加值服務」策略，我們為 Adidas、Nike 等全球知名運動品牌提供服務。我們對創新的承諾，已將我們從傳統製造商轉變為技術驅動的產業領導者。",
+    "mission_title": "我們的使命",
+    "mission_quote": "透過在體育產業提供最有價值的解決方案，造福健康生活。",
+    "stats_factories": "全球工廠",
+    "stats_employees": "全球員工",
+    "stats_years": "卓越年數",
+    "stats_brands": "合作品牌"
+  },
+  "operations": {
+    "title": "IT 營運 — 工廠 4.0",
+    "subtitle": "我們製造卓越的中樞神經系統。",
+    "sap_title": "SAP ERP 精通",
+    "sap_desc": "營運的核心骨幹，以精準、可靠和即時數據驅動決策管理企業資源。",
+    "mes_title": "MES 整合",
+    "mes_desc": "製造執行系統提供即時生產監控、品質追蹤和工單管理。",
+    "wms_title": "WMS 卓越",
+    "wms_desc": "倉庫管理系統優化物料存儲、提取和流動，確保及時交付。",
+    "mps_title": "MPS 規劃",
+    "mps_desc": "主生產排程將需求預測與產能規劃對齊，實現無縫生產協調。",
+    "map_title": "系統整合圖",
+    "map_subtitle": "統一數據流連接工廠運營的每一層。"
+  },
+  "innovation": {
+    "title": "AI 與創新實驗室",
+    "subtitle": "以動態智能引領鞋業未來。",
+    "ai_agent_title": "AI 代理驅動工作流程",
+    "ai_agent_desc": "自主 AI 代理分析、決策並執行複雜的工廠工作流程，減少人工干預，最大化品質和速度。",
+    "agile_title": "敏捷專案執行",
+    "agile_desc": "由 AI 代理驅動，以前所未有的速度適應並交付解決方案。",
+    "vibe_title": "Vibe Coding",
+    "vibe_desc": "我們的現代開發理念——以意圖、創造力和流暢感撰寫程式碼。",
+    "automation_title": "自訂 AI 自動化",
+    "automation_desc": "透過專門建構的智能自動化管道，簡化複雜工作流程並減少人工瓶頸。"
+  },
+  "support": {
+    "title": "支援服務台",
+    "subtitle": "SHOE 生產工廠營運的專業支援入口。",
+    "sd_title": "SD 傳統系統",
+    "sd_desc": "為傳統銷售與配送模組提供全面支援，確保供應鏈運營不間斷。",
+    "qm_title": "品質管理",
+    "qm_desc": "先進的品質管理系統確保卓越的產出標準和國際品質合規。",
+    "production_title": "生產支援",
+    "production_desc": "MES、條碼系統和即時報告的 24/7 生產現場 IT 支援。",
+    "helpdesk_title": "IT 服務台",
+    "helpdesk_desc": "硬體、網路和軟體問題的快速響應服務台。"
+  },
+  "team": {
+    "title": "認識創新者",
+    "subtitle": "推動 Adidas 鞋類生產數位轉型的智者們。",
+    "paul_name": "Paul Huang 先生",
+    "paul_role": "IT 經理",
+    "paul_bio": "專注於數位轉型的遠見領導者，以創新和前瞻性引領 IT 策略方向。",
+    "ting_name": "Ting (Htet Aung Hlaing)",
+    "ting_role": "首席 AI 創新者與軟體架構師",
+    "ting_bio": "AI 代理與 Vibe Coding 的架構師。將創意轉化為重新定義工廠自動化的智能解決方案。",
+    "didi_name": "Di Di (Saw D Aye Chan)",
+    "didi_role": "物流與 WMS 整合專家",
+    "didi_bio": "WMS 與倉庫運營專家，優化存儲、物料流動和物流整合。",
+    "harry_name": "Harry (Hein Htet Zaw)",
+    "harry_role": "SAP 與生產系統專家",
+    "harry_bio": "SOLE Factory MES、SD 和 SAP 支援專家，確保生產系統不間斷運行。"
+  },
+  "footer": {
+    "desc": "動態智能：引領鞋業未來。",
+    "location_title": "位置",
+    "address": "112/121, No.(4) Main Rd., Thar Du Kan Industrial Zone, Shwe Pyi Thar Township, Yangon, Myanmar.",
+    "links_title": "官方連結",
+    "pouchen": "寶成集團",
+    "yueyuen": "裕元工業",
+    "copyright": "© {{year}} Pouchen Myanmar (PMA - B150) PCM PCaG PCB IT Team. 版權所有。"
+  }
+}

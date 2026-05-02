@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "about": "About Us",
+    "operations": "IT Operations",
+    "innovation": "AI & Innovation",
+    "support": "Support Desk",
+    "team": "Our Team"
+  },
+  "hero": {
+    "badge": "INNOVATION HUB",
+    "title_line1": "PCM PCaG PCB IT Team",
+    "title_line2": "Pouchen Myanmar",
+    "subtitle": "An AI-Driven IT Project Office bridging the gap between Legacy Operations and Future Automation.",
+    "cta": "Explore Our Future",
+    "professionalism": "Professionalism",
+    "dedication": "Dedication",
+    "innovation": "Innovation",
+    "service": "Service"
+  },
+  "about": {
+    "title": "About Pouchen Group",
+    "subtitle": "A legacy of excellence in footwear manufacturing since 1969.",
+    "history_title": "Our Heritage",
+    "history_p1": "Founded in 1969, Pouchen Group started as a small OEM footwear manufacturer in Taiwan. Over five decades, we have evolved into one of the world's largest and most technologically advanced athletic and casual footwear manufacturers.",
+    "history_p2": "Through our \"Full-line products and value-added services\" strategy, we serve global brands including Adidas, Nike, and other world-renowned sports brands. Our commitment to innovation has transformed us from a traditional manufacturer into a technology-driven industry leader.",
+    "mission_title": "Our Mission",
+    "mission_quote": "To benefit healthy lives by providing the most valuable solutions in the sports industry.",
+    "stats_factories": "Global Factories",
+    "stats_employees": "Employees Worldwide",
+    "stats_years": "Years of Excellence",
+    "stats_brands": "Partner Brands"
+  },
+  "operations": {
+    "title": "IT Operations — Factory 4.0",
+    "subtitle": "The central nervous system of our manufacturing excellence.",
+    "sap_title": "SAP ERP Mastery",
+    "sap_desc": "The core backbone of our operations, managing enterprise resources with precision, reliability, and real-time data-driven decisions across production cycles.",
+    "mes_title": "MES Integration",
+    "mes_desc": "Manufacturing Execution Systems delivering real-time production monitoring, quality tracking, and work-order management on the shop floor.",
+    "wms_title": "WMS Excellence",
+    "wms_desc": "Warehouse Management Systems optimizing material storage, retrieval, and flow — ensuring just-in-time delivery to every production line.",
+    "mps_title": "MPS Planning",
+    "mps_desc": "Master Production Scheduling aligning demand forecasting with capacity planning for seamless production orchestration.",
+    "map_title": "System Integration Map",
+    "map_subtitle": "Unified data flow connecting every layer of factory operations."
+  },
+  "innovation": {
+    "title": "AI & Innovation Lab",
+    "subtitle": "Pioneering intelligence in motion to power the future of footwear.",
+    "ai_agent_title": "AI Agent Driven Workflows",
+    "ai_agent_desc": "Autonomous AI agents that analyze, decide, and execute complex factory workflows — reducing human intervention while maximizing output quality and speed.",
+    "agile_title": "Agile Project Execution",
+    "agile_desc": "Powered by AI Agents to adapt and deliver solutions at unprecedented speed. Iterative sprints ensure continuous improvement and rapid deployment.",
+    "vibe_title": "Vibe Coding",
+    "vibe_desc": "Our modern development philosophy — writing code with intention, creativity, and flow. Building intelligent solutions that feel natural and perform exceptionally.",
+    "automation_title": "Custom AI Automations",
+    "automation_desc": "Streamlining complex workflows and reducing manual bottlenecks across factory operations with purpose-built intelligent automation pipelines."
+  },
+  "support": {
+    "title": "Support Desk",
+    "subtitle": "Professional support portal for SHOE Production Factory operations.",
+    "sd_title": "SD Legacy Systems",
+    "sd_desc": "Comprehensive support for legacy Sales & Distribution modules ensuring uninterrupted supply chain operations and order fulfillment.",
+    "qm_title": "Quality Management",
+    "qm_desc": "Advanced Qmgmt systems ensuring pristine output standards, defect tracking, and compliance with international quality benchmarks.",
+    "production_title": "Production Support",
+    "production_desc": "24/7 production floor IT support for MES, barcode systems, and real-time reporting — keeping the factory running at peak efficiency.",
+    "helpdesk_title": "IT Helpdesk",
+    "helpdesk_desc": "Rapid-response helpdesk for hardware, networking, and software issues. Ensuring every team member stays productive."
+  },
+  "team": {
+    "title": "Meet the Innovators",
+    "subtitle": "The minds driving digital transformation in Adidas shoe production.",
+    "paul_name": "Mr. Paul Huang",
+    "paul_role": "IT Manager",
+    "paul_bio": "Visionary leader focusing on digital transformation. Steering the strategic direction of IT initiatives with innovation, energy, and forward-thinking leadership.",
+    "ting_name": "Ting (Htet Aung Hlaing)",
+    "ting_role": "Lead AI Innovator & Software Architect",
+    "ting_bio": "The architect of AI Agents & Vibe Coding. Transforming ideas into intelligent solutions that redefine factory automation and software excellence.",
+    "didi_name": "Di Di (Saw D Aye Chan)",
+    "didi_role": "Logistics & WMS Integration Specialist",
+    "didi_bio": "Expert in WMS & Warehouse Operations. Optimizing storage, material flow, and logistics integration for seamless supply chain management.",
+    "harry_name": "Harry (Hein Htet Zaw)",
+    "harry_role": "SAP & Production Systems Expert",
+    "harry_bio": "Expert in SOLE Factory MES, SD, and SAP support. Ensuring uninterrupted production systems and driving operational excellence on the shop floor."
+  },
+  "footer": {
+    "desc": "Intelligence in Motion: Powering the Future of Footwear.",
+    "location_title": "Location",
+    "address": "112/121, No.(4) Main Rd., Thar Du Kan Industrial Zone, Shwe Pyi Thar Township, Yangon, Myanmar.",
+    "links_title": "Official Links",
+    "pouchen": "Pouchen Group",
+    "yueyuen": "Yue Yuen Industrial",
+    "copyright": "© {{year}} Pouchen Myanmar (PMA - B150) PCM PCaG PCB IT Team. All rights reserved."
+  }
+}
