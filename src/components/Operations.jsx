@@ -41,7 +41,7 @@ export default function Operations() {
           viewport={{ once: true, margin: '-100px' }}
           className="text-center mb-16"
         >
-          <motion.h2 variants={fadeInUp} custom={0} className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
+          <motion.h2 variants={fadeInUp} custom={0} className="text-3xl sm:text-4xl lg:text-4xl font-bold text-white mb-4 text-balance">
             {t('operations.title')}
           </motion.h2>
           <motion.div variants={fadeInUp} custom={1} className="w-20 h-1 bg-gradient-to-r from-adidas-blue to-accent-cyan mx-auto rounded-full mb-4" />

@@ -38,7 +38,7 @@ export default function Support() {
             <Headset className="w-5 h-5 text-accent-amber" />
             <span className="text-xs font-semibold tracking-widest text-accent-amber uppercase">24/7 Ready</span>
           </motion.div>
-          <motion.h2 variants={fadeInUp} custom={1} className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
+          <motion.h2 variants={fadeInUp} custom={1} className="text-3xl sm:text-4xl lg:text-4xl font-bold text-white mb-4 text-balance">
             {t('support.title')}
           </motion.h2>
           <motion.div variants={fadeInUp} custom={2} className="w-20 h-1 bg-gradient-to-r from-accent-amber to-accent-emerald mx-auto rounded-full mb-4" />

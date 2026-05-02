@@ -38,7 +38,7 @@ export default function About() {
             <Building2 className="w-5 h-5 text-adidas-blue" />
             <span className="text-xs font-semibold tracking-widest text-adidas-light uppercase">Since 1969</span>
           </motion.div>
-          <motion.h2 variants={fadeInUp} custom={1} className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
+          <motion.h2 variants={fadeInUp} custom={1} className="text-3xl sm:text-4xl lg:text-4xl font-bold text-white mb-4 text-balance">
             {t('about.title')}
           </motion.h2>
           <motion.div variants={fadeInUp} custom={2} className="w-20 h-1 bg-gradient-to-r from-adidas-blue to-accent-cyan mx-auto rounded-full mb-4" />

@@ -39,7 +39,7 @@ export default function Innovation() {
             <BrainCircuit className="w-5 h-5 text-accent-violet" />
             <span className="text-xs font-semibold tracking-widest text-accent-violet uppercase">R&D Lab</span>
           </motion.div>
-          <motion.h2 variants={fadeInUp} custom={1} className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
+          <motion.h2 variants={fadeInUp} custom={1} className="text-3xl sm:text-4xl lg:text-4xl font-bold text-white mb-4 text-balance">
             {t('innovation.title')}
           </motion.h2>
           <motion.div variants={fadeInUp} custom={2} className="w-20 h-1 bg-gradient-to-r from-accent-violet to-accent-cyan mx-auto rounded-full mb-4" />
