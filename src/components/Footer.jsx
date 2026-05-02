@@ -57,6 +57,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-slate-400 hover:text-adidas-light text-sm transition-colors duration-300"
+                aria-label="Visit Pouchen Group official website"
               >
                 <ExternalLink className="w-3.5 h-3.5" />
                 {t('footer.pouchen')}
@@ -66,6 +67,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-slate-400 hover:text-adidas-light text-sm transition-colors duration-300"
+                aria-label="Visit Yue Yuen Industrial official website"
               >
                 <ExternalLink className="w-3.5 h-3.5" />
                 {t('footer.yueyuen')}

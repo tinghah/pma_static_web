@@ -62,7 +62,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-18">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-2.5 group">
+          <a href="#" className="flex items-center gap-2.5 group" aria-label="PMA IT Home">
             <div className="relative">
               <Cpu className="w-7 h-7 text-adidas-blue transition-all duration-300 group-hover:text-adidas-light" />
               <div className="absolute inset-0 bg-adidas-blue/20 rounded-full blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
@@ -95,6 +95,9 @@ export default function Navbar() {
                 onClick={() => setLangOpen(!langOpen)}
                 className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm font-medium text-slate-300 hover:text-white hover:bg-white/5 transition-all duration-300 border border-white/10 hover:border-adidas-blue/40"
                 id="language-switcher"
+                aria-label={t('nav.language_switcher', { defaultValue: 'Switch language' })}
+                aria-haspopup="true"
+                aria-expanded={langOpen}
               >
                 <Globe className="w-4 h-4 text-adidas-blue" />
                 <span className="hidden sm:inline">{currentLang.flag} {currentLang.label}</span>
@@ -140,6 +143,8 @@ export default function Navbar() {
               onClick={() => setMobileOpen(!mobileOpen)}
               className="lg:hidden p-2 text-slate-300 hover:text-white transition-colors"
               id="mobile-menu-toggle"
+              aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
+              aria-expanded={mobileOpen}
             >
               {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
             </button>
